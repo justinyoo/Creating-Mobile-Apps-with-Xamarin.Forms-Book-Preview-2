@@ -1,4 +1,4 @@
-# 책: Creating Mobile Apps with Xamarin.Forms를 이용한 모바일 앱 만들기 프리뷰 #2 #
+# Xamarin.Forms를 이용한 모바일 앱 만들기 (프리뷰 #2) #
 
 
 ## 알림 ##
